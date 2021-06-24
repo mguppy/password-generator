@@ -21,6 +21,6 @@ I built a password generator that provides a user with a randomized password bas
 
 https://mguppy.github.io/password-generator/
 
-(password-generator/password-generator-screenshot.png)
+![ScreenShot](/screenshots/password-generator-screenshot.png)
 
 Credits: w3schools.com, my tutor, classmates and my programmer husband
